@@ -63,3 +63,29 @@ The dataset construction is based on the method noted in [Large movie review dat
     <td>KoBert</td><td>0.901</td>
   </tr>
 </table>
+
+
+<h5>2. KorQuAD1.0</h5>
+- The Korean Question Answering Dataset
+
+KorQuAD 1.0은 한국어 Machine Reading Comprehension을 위해 만든 데이터셋입니다. 모든 질의에 대한 답변은 해당 Wikipedia article 문단의 일부 하위 영역으로 이루어집니다. Stanford Question Answering Dataset(SQuAD) v1.0과 동일한 방식으로 구성되었습니다.
+
+### Question Struct
+
+
+#### *Accuracy
+<table>
+  <tr>
+    <td>MODEL</td><td>Exact Matching</td><td>F1-score</td>
+  </tr>
+  <tr>
+    <td>BERT-MULTILINGUAL-cased</td><td>70.42</td><td>90.25</td>
+  </tr>
+  <tr>
+    <td>KorBert</td><td>0.8946</td><td>0.86</td>
+  </tr>
+  <tr>
+    <td>KoBert</td><td>???</td><td>???</td>
+  </tr>
+</table>
+
