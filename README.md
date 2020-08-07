@@ -25,16 +25,16 @@ Korean BERT들의 성능비교 : 다양한 언어모델간의 차이와 성능�
 
 1. NSMC
 <table>
-  <td>
-    <tr>MODEL</tr><tr>ACCURACY</tr>
-  </td>
-  <td>
-    <tr>BERT-MULTILINGUAL-cased</tr><tr>0.86</tr>
-  </td>
-  <td>
-    <tr>KorBert</tr><tr>0.8946</tr>
-  </td>
-  <td>
-    <tr>KoBert</tr><tr>0.901</tr>
-  </td>
+  <tr>
+    <td>MODEL</tr><tr>ACCURACY</td>
+  </tr>
+  <tr>
+    <td>BERT-MULTILINGUAL-cased</td><td>0.86</td>
+  </tr>
+  <tr>
+    <td>KorBert</td><td>0.8946</td>
+  </tr>
+  <tr>
+    <td>KoBert</td><td>0.901</td>
+  </tr>
 </table>
