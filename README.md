@@ -19,13 +19,20 @@ NLP를 위한 선학습 언어모델 BERT
 Korean BERT들의 성능비교 : 다양한 언어모델간의 차이와 성능을 분석해보자!
 
 <h4>TEST SET</h4>
-- NSMC : 네이버 영화 리뷰 긍부정 데이터 
-- Korquad1.0
-- kakaobrain / KorNLUDatasets
+- NSMC : 네이버 영화 리뷰 긍부정 데이터 </br>
+- Korquad1.0</br>
+- kakaobrain / KorNLUDatasets</br>
 
-결과 
+<h5>결과</h5>
 
 <h5>1. NSMC</h5>
+- Naver sentiment movie corpus v1.0
+
+This is a movie review dataset in the Korean language.
+Reviews were scraped from [Naver Movies](http://movie.naver.com/movie/point/af/list.nhn).
+
+The dataset construction is based on the method noted in [Large movie review dataset](http://ai.stanford.edu/~amaas/data/sentiment/) from Maas et al., 2011.
+
 <table>
   <tr>
     <td>MODEL</td><td>ACCURACY</td>
