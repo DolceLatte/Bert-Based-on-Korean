@@ -48,7 +48,7 @@ The dataset construction is based on the method noted in [Large movie review dat
     9443947 별 반개도 아깝다 욕나온다 이응경 길용우 연기생활이몇년인지..정말 발로해도 그것보단 낫겟다 납치.감금만반복반복..이드라마는 가족도없다 연기못하는사람만모엿네       0
     7156791 액션이 없는데도 재미 있는 몇안되는 영화 1
 
-#### *Accuracy
+#### * Accuracy
 <table>
   <tr>
     <td>MODEL</td><td>ACCURACY</td>
@@ -74,7 +74,7 @@ KorQuAD 1.0은 한국어 Machine Reading Comprehension을 위해 만든 데이�
 ![Screenshot from 2020-08-07 17-40-12](https://user-images.githubusercontent.com/45285053/89626953-1c245c00-d8d5-11ea-874c-f05a5aef099b.png)
 
 
-#### *EM & F!-SCORE
+#### * EM & F1-SCORE
 <table>
   <tr>
     <td>MODEL</td><td>Exact Matching</td><td>F1-score</td>
