@@ -7,14 +7,20 @@ NLP를 위한 선학습 언어모델 BERT
 구글 BERT base multilingual cased의 한국어 성능 한계 -> 다양한 <strong>Korean BERT pre-trained cased</strong> 등장
 
 <h3>한국어 언어 모델</h3>
-1. ETRI - KorBert</br>
-
-2. SKT BRAIN - KoBert</br>
-
-3. BERT multilingual</br>
-
-4. HanBert - TwoBlock Ai</br>
-
+<li>
+  <ol>
+  1. ETRI - KorBert</br>
+  </ol>
+  <ol>
+  2. SKT BRAIN - KoBert</br>
+  </ol>
+  <ol>
+  3. BERT multilingual</br>
+  </ol>
+  <ol>
+  4. HanBert - TwoBlock Ai</br>
+  </ol>
+</li>
 
 Korean BERT들의 성능비교 : 다양한 언어모델간의 차이와 성능을 분석해보자!
 
