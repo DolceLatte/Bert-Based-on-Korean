@@ -83,7 +83,7 @@ KorQuAD 1.0은 한국어 Machine Reading Comprehension을 위해 만든 데이�
     <td>BERT-MULTILINGUAL-cased</td><td>70.42</td><td>90.25</td>
   </tr>
   <tr>
-    <td>KorBert</td><td></td><td></td>
+    <td>KorBert</td><td>20.62</td><td>82.10</td>
   </tr>
   <tr>
     <td>KoBert</td><td>???</td><td>???</td>
